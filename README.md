@@ -1,4 +1,11 @@
-## Hi there 👋
+
+
+<h1 align="center">
+    <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;+I'm+Prasenjit+Dutta😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
+    <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+</h1>
+
 
 <!--
 **PrasenjitDutta12/PrasenjitDutta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
