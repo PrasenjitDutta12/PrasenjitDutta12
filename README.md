@@ -10,6 +10,7 @@
     <tr>
         <td valign="top" width="50%">
            - I’m currently learning **Reactjs & Nodejs**
+            
            - How to Reach me **prasenjitduttajob@gmail.com**
         </td>
     </tr>
