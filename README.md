@@ -7,6 +7,14 @@
 </h1>
 <h3 align="center">Languages and Tools-></h3><br/>
 
+<table>
+    <tr>
+        <td>
+            - How to Reach me 
+        </td>
+    </tr>
+</table>
+
 <div align=center>
 
 [<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="60" height="60"/>](https://reactnative.dev/)
