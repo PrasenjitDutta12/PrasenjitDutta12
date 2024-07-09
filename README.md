@@ -9,17 +9,16 @@
 
 <div align=center>
 
-[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="40" height="40"/>](https://reactnative.dev/)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>](https://www.javascript.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>](https://www.oracle.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
-[<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>](https://icons8.com/icon/20909/html-5)
-[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/)
-[<img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="microsoft-access" width="40" height="40"/>](https://www.microsoft.com/access)
-[<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>](https://www.java.com/)
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="40" height="40"/>](https://www.cprogramming.com/)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="60" height="60"/>](https://reactnative.dev/)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="60" height="60"/>](https://www.javascript.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>](https://www.oracle.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>](https://www.postgresql.org)
+[<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="60" height="60"/>](https://icons8.com/icon/20909/html-5)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="60" height="60"/>](https://www.w3.org/Style/CSS/)
+[<img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="microsoft-access" width="60" height="60"/>](https://www.microsoft.com/access)
+[<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="60" height="60"/>](https://www.cprogramming.com/)
 </div>
 
 
