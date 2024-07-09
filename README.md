@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td valign="top" width="50%">
-            -How to Reach me 
+           - 🌱 I’m currently learning **Reactjs & Nodejs**
         </td>
     </tr>
 </table>
