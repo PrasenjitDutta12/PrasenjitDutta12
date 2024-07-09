@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td valign="top" width="50%">
-            - How to Reach me 
+            -How to Reach me 
         </td>
     </tr>
 </table>
