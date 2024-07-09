@@ -11,8 +11,6 @@
 
 [<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="40" height="40"/>](https://reactnative.dev/)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>](https://www.javascript.com/)
-[<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>](https://www.oracle.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
