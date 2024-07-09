@@ -7,12 +7,12 @@
 </h1>
 
 <table>
-    <tr>
-        <td valign="top" width="50%">
-           - I’m currently learning **Reactjs & Nodejs**
-          - 📫 How to reach me **rahulkar9988@gmail.com**
-        </td>
-    </tr>
+<tr>
+<td valign="top" width="50%">
+- I’m currently learning **Reactjs & Nodejs**
+- 📫 How to reach me **rahulkar9988@gmail.com**
+</td>
+</tr>
 </table>
 
 <h3 align="center">Languages and Tools-></h3><br/>
