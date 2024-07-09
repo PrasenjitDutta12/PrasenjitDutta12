@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-- I’m currently learning **Reactjs & Nodejs**
+- I’m currently learning **Reactjs & Nodejs**<br>
 - How to reach me **prasenjitduttajob@gmail.com**
 </td>
 </tr>
