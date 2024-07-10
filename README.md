@@ -17,7 +17,7 @@
  </td>
 <td valign="top" width="50%">
 <div align="right">
-    <img > 
+<img width="80%"  src="" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </td>
 </tr>
