@@ -16,7 +16,9 @@
 </ul>
  </td>
 <td valign="top" width="50%">
-   <img> 
+<div align="right">
+    <img > 
+</div>
 </td>
 </tr>
 </table>
