@@ -15,7 +15,7 @@
  </li>
 </ul>
  </td>
-    <td>
+    <td valign="top" width="50%">
         <img> 
     </td>
 </tr>
