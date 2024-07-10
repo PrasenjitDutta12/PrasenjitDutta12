@@ -15,9 +15,9 @@
  </li>
 </ul>
  </td>
-    <td valign="top" width="50%">
-        <img> 
-    </td>
+<td valign="top" width="50%">
+   <img> 
+</td>
 </tr>
 </table>
 
