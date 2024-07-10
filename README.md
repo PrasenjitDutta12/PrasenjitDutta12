@@ -1,27 +1,31 @@
-
+<img ="" src="" />
 <h1 align="center">
     <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;+I'm+Prasenjit+Dutta😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
     <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-</h1>
-<table>
-<tr>
-<td valign="top" width="50%"> 
-<ul> 
-<li> - 🌱 I’m currently learning **React & Nodejs...
-<li>-📫 How to reach me **prasenjitduttajob@gmail.com**
-<li> -🧑‍💻 You can get my all projects on --
- <li>- [img]
- </li>
-</ul>
- </td>
-<td valign="top" width="50%">
+    <table>
+    <tr>
+    <td vallign="top" width="50%">
+    <div>
+- 🌱 I’m currently learning **React & Nodejs...
+- 📫 How to reach me *prasenjitduttajob@gmail.com*
+- 🧑‍💻 You can get my all projects on --
+  </div>
+  </td>
+  <td valign="top" width="50%">
       <div align="right">
  <img width="80%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </div>
-</td>
-</tr>
-</table>
+  </tr>
+  </table>
+  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prasenjitdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasenjitdutta" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/prasenjit dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasenjit dutta" height="30" width="40" /></a>
+<a href="https://fb.com/prasenjit dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasenjit dutta" height="30" width="40" /></a>
+<a href="https://instagram.com/prasenjitdutta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasenjitdutta07" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Languages and Tools-></h3><br/>
 
@@ -38,7 +42,6 @@
 [<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="60" height="60"/>](https://www.python.org/)
 [<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="60" height="60"/>](https://www.cprogramming.com/)
 </div>
-
 
 <!--
 **PrasenjitDutta12/PrasenjitDutta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
