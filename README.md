@@ -8,15 +8,14 @@
 <table>
 <tr>
 <td valign="top" width="50%"> 
- - 🔭 I’m currently working on ...<br>
- - 🌱 I’m currently learning ...<br>
- - 👯 I’m looking to collaborate on ...<br>
- - 🤔 I’m looking for help with ... <br>
- - 💬 Ask me about ...<br>
- - 📫 How to reach me: ...<br>
- - 😄 Pronouns: ...<br>
- 
-</td>
+<ul> 
+<li> - 🌱 I’m currently learning **React & Nodejs...
+<li>-📫 How to reach me **prasenjitduttajob@gmail.com**
+<li> - 🤔  
+ <li>- 
+ </li>
+</ul>
+ </td>
 </tr>
 </table>
 
