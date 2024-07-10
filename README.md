@@ -17,7 +17,7 @@
  </td>
 <td valign="top" width="50%">
 <div align="right">
-<img width="80%"  src="" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="60%"  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </td>
 </tr>
