@@ -7,14 +7,14 @@
 </h1>
 
 <table>
-<tr>
-<td valign="top" width="50%">
-<li>   
+    <tr>
+      <td valign="top" width="50%">
+        <li>   
 -🏝️I’m currently learning **Reactjs & Nodejs**<br>
 -📩How to reach me  **prasenjitduttajob@gmail.com**<br>
-</li>
-</td>
-</tr>
+       </li>
+     </td>
+   </tr>
 </table>
 
 <h3 align="center">Languages and Tools-></h3><br/>
