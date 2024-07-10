@@ -23,8 +23,7 @@
   </table>
           <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PrasenjitDutta12/PrasenjitDutta12/output/github-contribution-grid-snake-dark.svg" />
-<br/><br/>
+  
 </div>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
