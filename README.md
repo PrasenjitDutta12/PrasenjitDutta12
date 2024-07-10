@@ -1,25 +1,33 @@
-<img ="" src="" />
+![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)
 <h1 align="center">
     <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;+I'm+Prasenjit+Dutta😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
-    <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-    <table>
+    <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/> </p>
+</h1>
+<table>
     <tr>
-    <td vallign="top" width="50%">
+    <td valign="top" width="50%">
     <div>
-- 🌱 I’m currently learning **React & Nodejs...
-- 📫 How to reach me *prasenjitduttajob@gmail.com*
-- 🧑‍💻 You can get my all projects on --
+        <ul>
+<li >🌱 I’m currently learning **React & Nodejs...  </li>     
+<li>📫 How to reach me *prasenjitduttajob@gmail.com*</li>
+<li>🧑‍💻 You can get my all projects on -- </li>
+        </ul>
   </div>
   </td>
   <td valign="top" width="50%">
       <div align="right">
  <img width="80%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
   </tr>
   </table>
-  
-
-<h3 align="left">Connect with me:</h3>
+          <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+ 
+<img alt="snake eating my contributions" src="" />
+<br/><br/>
+</div>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasenjitdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasenjitdutta" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/prasenjit dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasenjit dutta" height="30" width="40" /></a>
