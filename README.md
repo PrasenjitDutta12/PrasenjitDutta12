@@ -11,8 +11,8 @@
 <ul> 
 <li> - 🌱 I’m currently learning **React & Nodejs...
 <li>-📫 How to reach me **prasenjitduttajob@gmail.com**
-<li> - 🤔  
- <li>- 
+<li> -🧑‍💻 You can get my all projects on --
+ <li>- [img]
  </li>
 </ul>
  </td>
