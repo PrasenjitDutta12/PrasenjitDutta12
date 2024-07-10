@@ -10,8 +10,8 @@
     <tr>
       <td valign="top" width="50%">
         <li>   
--🏝️I’m currently learning **Reactjs & Nodejs**<br>
--📩How to reach me  **prasenjitduttajob@gmail.com**<br>
+           -🏝️I’m currently learning **Reactjs & Nodejs**<br>
+           -📩How to reach me  **prasenjitduttajob@gmail.com**<br>
        </li>
      </td>
    </tr>
