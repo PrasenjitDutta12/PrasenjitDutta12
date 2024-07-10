@@ -16,9 +16,9 @@
 </ul>
  </td>
 <td valign="top" width="50%">
-<div align="right">
-    <img width="80%"  src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+      <div align="right">
+ <img width="80%"  src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </div>
 </td>
 </tr>
 </table>
