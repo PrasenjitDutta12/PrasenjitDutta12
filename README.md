@@ -5,20 +5,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;+I'm+Prasenjit+Dutta😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
     <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 </h1>
-
 <table>
-    <tr>
-      <td valign="top" width="50%" 
-          - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact
-     </td>
-   </tr>
+<tr>
+<td valign="top" width="50%"> 
+ - 🔭 I’m currently working on ...<br>
+ - 🌱 I’m currently learning ...<br>
+ - 👯 I’m looking to collaborate on ...<br>
+ - 🤔 I’m looking for help with ... <br>
+ - 💬 Ask me about ...<br>
+ - 📫 How to reach me: ...<br>
+ - 😄 Pronouns: ...<br>
+ 
+</td>
+</tr>
 </table>
 
 <h3 align="center">Languages and Tools-></h3><br/>
