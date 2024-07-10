@@ -17,7 +17,7 @@
  </td>
 <td valign="top" width="50%">
       <div align="right">
- <img width="80%" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="80%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="happy coding" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
 </td>
 </tr>
