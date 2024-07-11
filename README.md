@@ -24,6 +24,16 @@
           <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PrasenjitDutta12/PrasenjitDutta12/output/github-contribution-grid-snake-dark.svg" />
+
+  <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PrasenjitDutta12&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PrasenjitDutta12&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasenjitDutta12&theme=tokyonight" alt="Top Langs" />  
+</div>
   
 </div>
   <h3 align="left">Connect with me:</h3>
