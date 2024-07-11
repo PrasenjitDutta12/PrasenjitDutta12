@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=2AF7B4&lines=Hi+There!+👋;+I'm+Prasenjit+Dutta😊;+A+Passionate+Frontend+Developer👨‍💻;+Let's+Connect!;" />
     <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/> </p>
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-PrasenjitDutta12&label=Profile%20views&color=0e75b6&style=flat" alt="PrasenjitDutta12" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-green.svg" />
+</p>
 <table>
     <tr>
     <td valign="top" width="50%">
