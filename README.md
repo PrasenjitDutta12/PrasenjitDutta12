@@ -13,7 +13,7 @@
     <td valign="top" width="50%">
     <div>
         <ul>
-<li >🌱 I’m currently learning **Data Analytics  </li>     
+<li >🌱 I’m currently learning **Data Analytics and Data Science  </li>     
 <li>📫 How to reach me *prasenjitduttajob@gmail.com*</li>
 <li>🧑‍💻 You can get my all projects on -- </li>
         </ul>
